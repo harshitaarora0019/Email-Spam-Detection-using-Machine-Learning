@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Email Spam Detection using Machine Learning</title>
+    
 </head>
 <body>
 
